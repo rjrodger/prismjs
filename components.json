@@ -638,6 +638,11 @@
 			"require": "json",
 			"owner": "RunDevelopment"
 		},
+		"jsonic": {
+			"title": "Jsonic",
+			"require": "json",
+			"owner": "rjrodger"
+		},
 		"jsonp": {
 			"title": "JSONP",
 			"require": "json",

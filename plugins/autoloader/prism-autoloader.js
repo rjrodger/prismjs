@@ -75,6 +75,7 @@
 		],
 		"js-extras": "javascript",
 		"json5": "json",
+		"jsonic": "json",
 		"jsonp": "json",
 		"js-templates": "javascript",
 		"kotlin": "clike",
